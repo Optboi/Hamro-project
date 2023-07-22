@@ -22,7 +22,6 @@ def RPS(comp,you):
     return None
 
 
-
 print("computer; Rock(R), Paper(P), or scissor(S)?")
 import random
 a=random.randint(1,3)
